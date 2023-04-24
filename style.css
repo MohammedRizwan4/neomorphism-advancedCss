@@ -1,0 +1,29 @@
+body{
+    background-color: #13ddd9;
+}
+
+.content {
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.fas {
+    font-size: 10rem;
+}
+
+.nm{
+    color: #13ddd9;
+    text-shadow: 19px 19px 25px #0ea4a1,
+    -19px -19px 25px #18ffff;
+}
+
+.styling{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+    font-size: clamp(1rem,5.5vw,4rem);
+}
+
